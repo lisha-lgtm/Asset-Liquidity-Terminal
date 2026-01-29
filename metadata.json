@@ -1,0 +1,5 @@
+{
+  "name": "Asset Liquidity Terminal",
+  "description": "A professional asset liquidity monitoring terminal featuring drag-to-navigate time cycles, real-time cash flow aggregation, and funding risk analysis.",
+  "requestFramePermissions": []
+}
